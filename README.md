@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Haseeb Ahmad 👋
 
-<!--
-**haseeb-ahmad7864/haseeb-ahmad7864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Electronics & Computing Student** | 🛠️ **Embedded Systems & C++ Developer**
 
-Here are some ideas to get you started:
+A passionate student focusing on Microcontrollers, Digital Logic Design, and Software Development. I love building practical hardware-software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech & Tools
+- **Languages:** C++, HTML5, CSS3
+- **Hardware:** Arduino Uno, Sensors (Ultrasonic, LDR), Servo Motors, Shift Registers
+- **Core Concepts:** Digital Logic Design (DLD), BJT Circuit Analysis, Embedded Systems
+
+---
+
+### 📌 Featured Projects
+- 🗑️ **[Smart Dustbin Arduino](https://github.com/haseeb-ahmad7864/smart-dustbin-arduino):** Touchless trash bin using Arduino Uno, HC-SR04 ultrasonic sensor, and servo motor.
+
+---
+
+📫 **Connect with me:**
+- **Portfolio:** GitHub Repositories
+
